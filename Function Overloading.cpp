@@ -26,17 +26,18 @@ public:
 int main() {
     UserInfo u;
 
-    u.show("Aditya");
-    u.show("Aditya", 19);
-    u.show("Aditya", "Pune");
-    u.show("Aditya", 19, "Pune");
+    u.show("Ankush");
+    u.show("Ankush", 20);
+    u.show("Ankush", "Pune");
+    u.show("Ankush", 20, "Pune");
 
     return 0;
 }
 
 // OUTPUT
-// Name: Aditya
-// Name: Aditya, Age: 19
-// Name: Aditya, City: Pune
+// Name: Ankush
+// Name: Ankush, Age: 20
+// Name: Ankush, City: Pune
 
-// Name: Aditya, Age: 19, City: Pune
+// Name: Ankush, Age: 20, City: Pune
+
