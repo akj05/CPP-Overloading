@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Ankush Jha
+// 24070123016
 
 #include <iostream>
 using namespace std;
@@ -35,4 +35,5 @@ int main(){
 // OUTPUT
 // 30
 // 50
+
 // 31.14
