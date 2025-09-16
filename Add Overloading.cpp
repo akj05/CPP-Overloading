@@ -1,5 +1,5 @@
-// Aditya Jadhav
-// 24070123005
+// Ankush Jha
+// 24070123016
 
 #include <iostream>
 using namespace std;
@@ -43,4 +43,5 @@ int main() {
 // Sum: 0
 // Sum: 30
 // Sum: 45
+
 // Sum: 19
